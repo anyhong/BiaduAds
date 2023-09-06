@@ -1,0 +1,11 @@
+framework module BiaduAds {
+  umbrella header "BiaduAds.h"
+
+  export *
+  module * { export * }
+}
+
+module BiaduAds.Swift {
+    header "BiaduAds-Swift.h"
+    requires objc
+}

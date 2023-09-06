@@ -1,0 +1,24 @@
+// swift-interface-format-version: 1.0
+// swift-compiler-version: Apple Swift version 5.6.1 (swiftlang-5.6.0.323.66 clang-1316.0.20.12)
+// swift-module-flags: -target x86_64-apple-ios15.5-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -Onone -module-name BiaduAds
+@_exported import BiaduAds
+import Swift
+import SwiftUI
+import WidgetKit
+import _Concurrency
+public enum BAClockhand {
+  case second
+  case minute
+  case hour
+  public static func == (a: BiaduAds.BAClockhand, b: BiaduAds.BAClockhand) -> Swift.Bool
+  public func hash(into hasher: inout Swift.Hasher)
+  public var hashValue: Swift.Int {
+    get
+  }
+}
+extension SwiftUI.View {
+  public func magicEffect(hand: BiaduAds.BAClockhand, anchor: SwiftUI.UnitPoint) -> some SwiftUI.View
+  
+}
+extension BiaduAds.BAClockhand : Swift.Equatable {}
+extension BiaduAds.BAClockhand : Swift.Hashable {}
