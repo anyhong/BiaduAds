@@ -6,19 +6,13 @@ import Swift
 import SwiftUI
 import WidgetKit
 import _Concurrency
-public enum BAClockhand {
-  case second
-  case minute
-  case hour
-  public static func == (a: BiaduAds.BAClockhand, b: BiaduAds.BAClockhand) -> Swift.Bool
-  public func hash(into hasher: inout Swift.Hasher)
-  public var hashValue: Swift.Int {
-    get
-  }
+public enum MagicClockHandRotationEffectPeriod {
+  case custom(Foundation.TimeInterval)
+  case secondHand, hourHand, miniuteHand
 }
-extension SwiftUI.View {
-  public func magicEffect(hand: BiaduAds.BAClockhand, anchor: SwiftUI.UnitPoint) -> some SwiftUI.View
+public struct MagicHandRotationEffectModifier : SwiftUI.ViewModifier {
+  public init(period: BiaduAds.MagicClockHandRotationEffectPeriod, timezone: Foundation.TimeZone, anchor: SwiftUI.UnitPoint)
+  @_Concurrency.MainActor(unsafe) public func body(content: BiaduAds.MagicHandRotationEffectModifier.Content) -> some SwiftUI.View
   
+  public typealias Body = @_opaqueReturnTypeOf("$s8BiaduAds31MagicHandRotationEffectModifierV4body7contentQr7SwiftUI05_ViewG8_ContentVyACG_tF", 0) __
 }
-extension BiaduAds.BAClockhand : Swift.Equatable {}
-extension BiaduAds.BAClockhand : Swift.Hashable {}

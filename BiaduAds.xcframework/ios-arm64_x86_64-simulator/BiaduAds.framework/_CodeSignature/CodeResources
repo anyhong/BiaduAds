@@ -18,11 +18,11 @@
 		</data>
 		<key>Modules/BiaduAds.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		yOOz1zMhHTuWLzmbhUxSDdkG2Xk=
+		MiqJv5I36hgXrysbOTO01xoBBwI=
 		</data>
 		<key>Modules/BiaduAds.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		T79neeXwnAxi3yk+DAwBcB4pLAk=
+		30dJaBRKydBhz/bmIlRH9TH7IO8=
 		</data>
 		<key>Modules/BiaduAds.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -30,11 +30,11 @@
 		</data>
 		<key>Modules/BiaduAds.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		Edz6jOESgL1+K1yYMR4xGVfga6Q=
+		qFmq//GgJdSYT/CtGf1oCIZ+wO0=
 		</data>
 		<key>Modules/BiaduAds.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		pfErxRkag4JygVIA7GZ0v/wTTTw=
+		bt8xXWVr7aFEgi8IgiaPZ/t540U=
 		</data>
 		<key>Modules/BiaduAds.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -42,11 +42,11 @@
 		</data>
 		<key>Modules/BiaduAds.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		mx0UA5U+7V/+b05vV0KL2WsCtn8=
+		Kv3hFrhux+t+1ZdQ0Ky3OJdttI0=
 		</data>
 		<key>Modules/BiaduAds.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		HNphcGHR23sVoiUO7KSH1GBOF1s=
+		dy9T3SM3WoyhmCw33wunkNkcEFM=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -81,22 +81,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			yOOz1zMhHTuWLzmbhUxSDdkG2Xk=
+			MiqJv5I36hgXrysbOTO01xoBBwI=
 			</data>
 			<key>hash2</key>
 			<data>
-			Vt7aRFV2i9d4Fp0/S0zcdAxNfSqk2mGiutFmqHhfMhM=
+			1KWO3NVzhBRoLtbi+RxCqQ1k6TArVl2AjrYCAZtrt2s=
 			</data>
 		</dict>
 		<key>Modules/BiaduAds.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			T79neeXwnAxi3yk+DAwBcB4pLAk=
+			30dJaBRKydBhz/bmIlRH9TH7IO8=
 			</data>
 			<key>hash2</key>
 			<data>
-			Xw3wORW3jqO/i/Obadari+qqmXvyFLcn30/NOKJjHnk=
+			fQkAVmL12+IDizyY5Y8j2dCC6WBUa4r4XVdK64lsoo8=
 			</data>
 		</dict>
 		<key>Modules/BiaduAds.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
@@ -114,22 +114,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Edz6jOESgL1+K1yYMR4xGVfga6Q=
+			qFmq//GgJdSYT/CtGf1oCIZ+wO0=
 			</data>
 			<key>hash2</key>
 			<data>
-			7N6hbh6LY0ONQ0ZdTWpv/cXCfOs0Vf38j06DbCzhi1s=
+			/0adXc5Yrnrt9KEWoIWd2ijbpcV1gClZn/4oydcVRNs=
 			</data>
 		</dict>
 		<key>Modules/BiaduAds.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			pfErxRkag4JygVIA7GZ0v/wTTTw=
+			bt8xXWVr7aFEgi8IgiaPZ/t540U=
 			</data>
 			<key>hash2</key>
 			<data>
-			ZDWmqVKLUKNyIw+uLLVNHCHM+MozApHCXdfvVewBQDU=
+			eunJy3mMcIqzJmeMk12rTmlrHAleYyZfHRTBjfo/Bq0=
 			</data>
 		</dict>
 		<key>Modules/BiaduAds.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -147,22 +147,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			mx0UA5U+7V/+b05vV0KL2WsCtn8=
+			Kv3hFrhux+t+1ZdQ0Ky3OJdttI0=
 			</data>
 			<key>hash2</key>
 			<data>
-			Js3cBz4qQ5DTVJeFfWa5tu7GZSaNa6u0+ahrR5CRX0k=
+			YX3yLl4niL8Lzw29ADVEUJA8xXJ6Ka0+yjpWdCG9gf8=
 			</data>
 		</dict>
 		<key>Modules/BiaduAds.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			HNphcGHR23sVoiUO7KSH1GBOF1s=
+			dy9T3SM3WoyhmCw33wunkNkcEFM=
 			</data>
 			<key>hash2</key>
 			<data>
-			D2TcjASAVVlojeZkm5sZH7ShAKmChc+iTUVk99yFPcM=
+			Zlg3rT44GpB9w/nv6U3uQAnvdPESYhJqdPP18EH8dlQ=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
